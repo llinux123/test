@@ -1,2 +1,2 @@
 # test
-only for exercise
+only for exercise of videos
